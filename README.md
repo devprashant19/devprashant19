@@ -51,10 +51,10 @@ I am a 2nd Year Computer Science engineering undergraduate. I love building scal
 <table align="center" style="border:none;">
   <tr style="border:none;">
     <td align="center" style="border:none; background:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=devprashant19&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-zeta-sepia-19.vercel.app/api?username=devprashant19&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" style="border:none; background:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devprashant19&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-zeta-sepia-19.vercel.app/api/top-langs/?username=devprashant19&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
