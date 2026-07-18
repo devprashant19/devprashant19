@@ -61,7 +61,7 @@ I am a 3rd Year Computer Science engineering undergraduate. I love building scal
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=devprashant19&theme=dark&hide_border=true&cache_bust=1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=devprashant19&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
