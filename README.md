@@ -6,7 +6,7 @@
 
 <br/>
 
-I am a 2nd Year Computer Science engineering undergraduate. I love building scalable full-stack applications, solving complex algorithmic problems, and exploring the open-source ecosystem.
+I am a 3rd Year Computer Science engineering undergraduate. I love building scalable full-stack applications, solving complex algorithmic problems, and exploring the open-source ecosystem.
 
 <br/>
 
