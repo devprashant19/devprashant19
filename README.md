@@ -38,7 +38,7 @@ I am a 3rd Year Computer Science engineering undergraduate. I love building scal
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,py,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,firebase,gcp,git,figma,postman&perline=10" alt="Prashant's Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,py,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,firebase,gcp,git,github,githubactions,docker,bash,vite,vercel,figma,postman&perline=13" alt="Prashant's Skills" />
 </a>
 
 <br/><br/>
