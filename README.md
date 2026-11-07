@@ -36,7 +36,7 @@ Most of what I build ships on **Next.js + TypeScript**, and I sharpen problem-so
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg" />
-  <img src="./assets/skills-light.svg" alt="Toolkit by category. Languages: C++, C, JavaScript, TypeScript, Python, Bash. AI and agents: OpenAI, Claude, Claude Code, Gemini, GitHub Copilot, Hugging Face, LangChain, Ollama. Frontend: React, Next.js, Tailwind CSS, HTML, CSS, Vite. Backend: Node.js, Express. Databases: PostgreSQL, MongoDB, MySQL, Firebase. Cloud and DevOps: Docker, GitHub Actions, Google Cloud, Vercel, Git. Tools: GitHub, Postman, Figma" width="100%" />
+  <img src="./assets/skills-light.svg" alt="Toolkit by category. Languages: C++, C, JavaScript, TypeScript, Python, Bash. AI and agents: OpenAI, Claude, Claude Code, Gemini, GitHub Copilot, Perplexity, Hugging Face, LangChain, Ollama, n8n, Jupyter. Frontend: React, Next.js, Tailwind CSS, shadcn/ui, Framer Motion, Three.js, HTML, CSS, Vite. Backend: Node.js, Express, Socket.IO, JSON Web Tokens. Databases: PostgreSQL, MySQL, SQLite, MongoDB, Redis, Supabase, Firebase. Cloud and hosting: AWS, Google Cloud, Vercel, Netlify, Render, Railway, Cloudflare, GitHub Pages. DevOps and OS: Docker, Kubernetes, GitHub Actions, Git, Linux, Ubuntu. Tools: VS Code, Android Studio, GitHub, Postman, Figma." width="100%" />
 </picture>
 
 </div>
@@ -86,7 +86,6 @@ Most of what I build ships on **Next.js + TypeScript**, and I sharpen problem-so
 </picture>
 
 <div align="center">
-
 <a href="https://prashant-bahuguna.vercel.app"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg" />
   <img src="./assets/btn-portfolio-light.svg" alt="Portfolio" width="260" />
