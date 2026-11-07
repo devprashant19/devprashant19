@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="64" viewBox="0 0 280 64" role="img" aria-labelledby="b2T">
+<title id="b2T">Email: dev.prashant1901</title>
+<defs>
+  <linearGradient id="b2Bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C1B30"/><stop offset="1" stop-color="#0F2240"/></linearGradient>
+  <linearGradient id="b2Sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7DB8F2" stop-opacity="0"/><stop offset="0.5" stop-color="#7DB8F2" stop-opacity="0.28"/><stop offset="1" stop-color="#7DB8F2" stop-opacity="0"/></linearGradient>
+  <clipPath id="b2C"><rect x="1" y="1" width="278" height="62" rx="16"/></clipPath>
+  <style>
+    .b2-run { animation: b2R 4s linear infinite; animation-delay: 1.0s; }
+    .b2-sh { animation: b2S 4.5s ease-in-out infinite; animation-delay: 1.2s; }
+    .b2-dot { animation: b2P 2.4s ease-in-out infinite; animation-delay: 0.6s; }
+    @keyframes b2R { from { stroke-dashoffset: 661; } to { stroke-dashoffset: 0; } }
+    @keyframes b2S { 0% { transform: translateX(-120px); } 55%,100% { transform: translateX(360px); } }
+    @keyframes b2P { 0%,100% { opacity: .4; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+</defs>
+<rect x="1" y="1" width="278" height="62" rx="16" fill="url(#b2Bg)" stroke="#1C3656"/>
+<g clip-path="url(#b2C)"><rect class="b2-sh" x="0" y="0" width="80" height="64" fill="url(#b2Sh)" transform="skewX(-20)"/></g>
+<rect class="b2-run" x="1" y="1" width="278" height="62" rx="16" fill="none" stroke="#4EA3F5" stroke-width="1.6" stroke-dasharray="60 601"/>
+<circle cx="30" cy="32.0" r="15" fill="#11284A"/>
+<circle class="b2-dot" cx="30" cy="32.0" r="5" fill="#4EA3F5"/>
+<text x="56" y="28" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#EAF4FF">Email</text>
+<text x="56" y="47" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" fill="#8AA8C8">dev.prashant1901</text>
+<text x="260" y="38.0" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#4EA3F5">↗</text>
+</svg>

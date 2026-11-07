@@ -1,83 +1,140 @@
 <div align="center">
 
-# 👋 Hi there, I'm Prashant!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Competitive+Programmer;Open+Source+Enthusiast)](https://git.io/typing-svg)
-
-<br/>
-
-I am a 3rd Year Computer Science engineering undergraduate. I love building scalable full-stack applications, solving complex algorithmic problems, and exploring the open-source ecosystem.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <img src="./assets/hero-light.svg" alt="Prashant Bahuguna — Full-Stack Developer, Competitive Programmer, Open Source Enthusiast" width="100%" />
+</picture>
 
 <br/>
 
-<h2 align="center">📫 Let's Connect</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Building+scalable+full-stack+apps;Solving+algorithmic+problems+in+C%2B%2B;Exploring+the+open-source+ecosystem;Learning+everyday+%3A%29&color=9CCBFA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Building+scalable+full-stack+apps;Solving+algorithmic+problems+in+C%2B%2B;Exploring+the+open-source+ecosystem;Learning+everyday+%3A%29&color=1D5FA8" alt="Typing animation: building scalable full-stack apps, solving algorithmic problems, exploring open source" width="720" />
+</picture>
 
-<div align="center">
-  <a href="https://linkedin.com/in/prashant-bahuguna19" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dev.prashant1901@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/devprashant19" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/_prashant__19" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/_prashant__19" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-01-dark.svg" />
+  <img src="./assets/section-01-light.svg" alt="01 About" width="100%" />
+</picture>
 
-<h2 align="center">💻 Tech Stack</h2>
+I'm **Prashant**, a 3rd-year Computer Science engineering undergraduate. I love building scalable full-stack applications, solving complex algorithmic problems, and exploring the open-source ecosystem.
+
+Most of what I build ships on **Next.js + TypeScript**, and I sharpen problem-solving in **C++** on LeetCode and Codeforces. Currently *focusing* — and learning every day.
 
 <br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,py,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,firebase,gcp,git,github,githubactions,docker,bash,vite,vercel,figma,postman&perline=13" alt="Prashant's Skills" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-02-dark.svg" />
+  <img src="./assets/section-02-light.svg" alt="02 Toolkit" width="100%" />
+</picture>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg" />
+  <img src="./assets/skills-light.svg" alt="Languages: C++, C, JavaScript, TypeScript, Python, Bash. Frontend: React, Next.js, Tailwind CSS, HTML, CSS, Vite. Backend: Node.js, Express. Databases: PostgreSQL, MongoDB, MySQL, Firebase. Cloud and DevOps: Docker, GitHub Actions, Google Cloud, Vercel, Git. Tools: GitHub, Postman, Figma" width="100%" />
+</picture>
 
 <br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,c,js,ts,py,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,gcp,vercel,githubactions&perline=16&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,py,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,gcp,vercel,githubactions&perline=16&theme=light" alt="Skill icons" />
+</picture>
 
-<h2 align="center">📊 GitHub Stats</h2>
+</div>
 
 <br/>
 
-<table align="center" style="border:none;">
-  <tr style="border:none;">
-    <td align="center" style="border:none; background:none;">
-      <img src="https://github-readme-stats-zeta-sepia-19.vercel.app/api?username=devprashant19&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td align="center" style="border:none; background:none;">
-      <img src="https://github-readme-stats-zeta-sepia-19.vercel.app/api/top-langs/?username=devprashant19&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" />
-    </td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-03-dark.svg" />
+  <img src="./assets/section-03-light.svg" alt="03 Activity" width="100%" />
+</picture>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=devprashant19&area=true&hide_border=false&radius=16&bg_color=0A1729&color=9CCBFA&title_color=EAF4FF&line=4EA3F5&point=EAF4FF&area_color=1D5FA8&border_color=1C3656" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devprashant19&area=true&hide_border=false&radius=16&bg_color=FFFFFF&color=1D5FA8&title_color=0B2A4A&line=3B8FE0&point=0B2A4A&area_color=BCD8F6&border_color=CFE2F8" alt="Contribution activity graph for devprashant19" width="100%" />
+</picture>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-sepia-19.vercel.app/api?username=devprashant19&show_icons=true&include_all_commits=true&count_private=true&bg_color=0A1729&title_color=9CCBFA&text_color=C9DDF2&icon_color=4EA3F5&border_color=1C3656&border_radius=16" />
+  <img src="https://github-readme-stats-zeta-sepia-19.vercel.app/api?username=devprashant19&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=1D5FA8&text_color=3A5F86&icon_color=3B8FE0&border_color=CFE2F8&border_radius=16" alt="GitHub stats for devprashant19" width="100%" />
+</picture>
+
+</td>
+    <td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-sepia-19.vercel.app/api/top-langs/?username=devprashant19&layout=compact&bg_color=0A1729&title_color=9CCBFA&text_color=C9DDF2&border_color=1C3656&border_radius=16" />
+  <img src="https://github-readme-stats-zeta-sepia-19.vercel.app/api/top-langs/?username=devprashant19&layout=compact&bg_color=FFFFFF&title_color=1D5FA8&text_color=3A5F86&border_color=CFE2F8&border_radius=16" alt="Top languages for devprashant19" width="100%" />
+</picture>
+
+</td>
   </tr>
 </table>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=devprashant19&background=0A1729&border=1C3656&stroke=1C3656&ring=4EA3F5&fire=7DB8F2&currStreakNum=EAF4FF&sideNums=EAF4FF&currStreakLabel=9CCBFA&sideLabels=8AA8C8&dates=8AA8C8&border_radius=16" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=devprashant19&background=FFFFFF&border=CFE2F8&stroke=CFE2F8&ring=3B8FE0&fire=1D5FA8&currStreakNum=0B2A4A&sideNums=0B2A4A&currStreakLabel=1D5FA8&sideLabels=3A5F86&dates=5B7FA6&border_radius=16" alt="GitHub contribution streak for devprashant19" width="70%" />
+</picture>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=devprashant19&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devprashant19&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-04-dark.svg" />
+  <img src="./assets/section-04-light.svg" alt="04 Connect" width="100%" />
+</picture>
+
+<div align="center">
+
+<a href="https://prashant-bahuguna.vercel.app"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg" />
+  <img src="./assets/btn-portfolio-light.svg" alt="Portfolio" width="260" />
+</picture></a>
+<a href="https://linkedin.com/in/prashant-bahuguna19"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" />
+  <img src="./assets/btn-linkedin-light.svg" alt="LinkedIn" width="260" />
+</picture></a>
+<a href="mailto:dev.prashant1901@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" />
+  <img src="./assets/btn-email-light.svg" alt="Email" width="260" />
+</picture></a>
+<a href="https://leetcode.com/u/dev_prashantt"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-leetcode-dark.svg" />
+  <img src="./assets/btn-leetcode-light.svg" alt="LeetCode" width="260" />
+</picture></a>
+<a href="https://codeforces.com/profile/prashant_1901"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-codeforces-dark.svg" />
+  <img src="./assets/btn-codeforces-light.svg" alt="Codeforces" width="260" />
+</picture></a>
+<a href="https://x.com/_prashant__19"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-x-dark.svg" />
+  <img src="./assets/btn-x-light.svg" alt="X" width="260" />
+</picture></a>
+<a href="https://instagram.com/_prashant__19"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-instagram-dark.svg" />
+  <img src="./assets/btn-instagram-light.svg" alt="Instagram" width="260" />
+</picture></a>
+
 <br/><br/>
 
-
-<h3>💡 "The only way to do great work is to love what you do." - Steve Jobs</h3>
-
-<br/><br/>
-⭐️ *Thanks for stopping by!*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+  <img src="./assets/footer-light.svg" alt="Thanks for stopping by" width="100%" />
+</picture>
 
 </div>
