@@ -36,14 +36,7 @@ Most of what I build ships on **Next.js + TypeScript**, and I sharpen problem-so
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg" />
-  <img src="./assets/skills-light.svg" alt="Languages: C++, C, JavaScript, TypeScript, Python, Bash. Frontend: React, Next.js, Tailwind CSS, HTML, CSS, Vite. Backend: Node.js, Express. Databases: PostgreSQL, MongoDB, MySQL, Firebase. Cloud and DevOps: Docker, GitHub Actions, Google Cloud, Vercel, Git. Tools: GitHub, Postman, Figma" width="100%" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cjs%2Cts%2Cpy%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Cdocker%2Cgcp%2Cvercel%2Cgithubactions&perline=16&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,py,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,gcp,vercel,githubactions&perline=16&theme=light" alt="Skill icons" />
+  <img src="./assets/skills-light.svg" alt="Toolkit by category. Languages: C++, C, JavaScript, TypeScript, Python, Bash. AI and agents: OpenAI, Claude, Claude Code, Gemini, GitHub Copilot, Hugging Face, LangChain, Ollama. Frontend: React, Next.js, Tailwind CSS, HTML, CSS, Vite. Backend: Node.js, Express. Databases: PostgreSQL, MongoDB, MySQL, Firebase. Cloud and DevOps: Docker, GitHub Actions, Google Cloud, Vercel, Git. Tools: GitHub, Postman, Figma" width="100%" />
 </picture>
 
 </div>
