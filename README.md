@@ -42,7 +42,7 @@ Most of what I build ships on **Next.js + TypeScript**, and I sharpen problem-so
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,c,js,ts,py,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,gcp,vercel,githubactions&perline=16&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cjs%2Cts%2Cpy%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Cdocker%2Cgcp%2Cvercel%2Cgithubactions&perline=16&theme=dark" />
   <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,py,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,gcp,vercel,githubactions&perline=16&theme=light" alt="Skill icons" />
 </picture>
 
@@ -56,13 +56,6 @@ Most of what I build ships on **Next.js + TypeScript**, and I sharpen problem-so
 </picture>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=devprashant19&area=true&hide_border=false&radius=16&bg_color=0A1729&color=9CCBFA&title_color=EAF4FF&line=4EA3F5&point=EAF4FF&area_color=1D5FA8&border_color=1C3656" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devprashant19&area=true&hide_border=false&radius=16&bg_color=FFFFFF&color=1D5FA8&title_color=0B2A4A&line=3B8FE0&point=0B2A4A&area_color=BCD8F6&border_color=CFE2F8" alt="Contribution activity graph for devprashant19" width="100%" />
-</picture>
-
-<br/><br/>
 
 <table>
   <tr>
