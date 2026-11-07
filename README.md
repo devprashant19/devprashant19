@@ -50,6 +50,13 @@ Most of what I build ships on **Next.js + TypeScript**, and I sharpen problem-so
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-activity-graph.vercel.app/graph?username=devprashant19&area=true&hide_border=true&radius=16&bg_color=0A1729&color=9CCBFA&title_color=EAF4FF&line=4EA3F5&point=EAF4FF&area_color=1D5FA8" />
+  <img src="https://readme-activity-graph.vercel.app/graph?username=devprashant19&area=true&hide_border=true&radius=16&bg_color=FFFFFF&color=1D5FA8&title_color=0B2A4A&line=3B8FE0&point=0B2A4A&area_color=BCD8F6" alt="Contribution activity graph for devprashant19" width="100%" />
+</picture>
+
+<br/><br/>
+
 <table>
   <tr>
     <td width="50%" align="center">
